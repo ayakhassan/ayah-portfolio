@@ -209,16 +209,16 @@ export default function Home() {
         </p>
 
         <div className="mt-8 flex flex-wrap gap-4 font-mono text-sm">
-          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="#">
+          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="https://github.com/ayakhassan">
             GitHub
           </a>
-          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="#">
+          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="https://www.linkedin.com/in/ayah-hassan-7845421a4/">
             LinkedIn
           </a>
           <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="#">
             Resume
           </a>
-          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="#">
+          <a className="text-[#00E5FF] hover:text-[#FF4FA3]" href="mailto:ayahkkhassan@gmail.com">
             Email
           </a>
         </div>
